@@ -33,7 +33,7 @@
     "morgan": "^1.10.0",
     "node-fetch": "^2.6.7",
     "path": "^0.12.7",
-    "serve-favicon": "^2.5.0",
+    "serve-favicon": "^2.5.1",
     "spotify-url-info": "^3.2.18",
     "twitter": "^1.7.1",
     "uuid": "^11.1.0",
