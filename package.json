@@ -30,7 +30,7 @@
     "fast-average-color-node": "^3.2.0",
     "jimp": "^1.6.1",
     "jimp-roundcorners": "^1.1.0",
-    "morgan": "^1.10.1",
+    "morgan": "^1.11.0",
     "node-fetch": "^2.6.7",
     "path": "^0.12.7",
     "serve-favicon": "^2.5.1",
