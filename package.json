@@ -24,7 +24,7 @@
     "cli-color": "^2.0.4",
     "compression": "^1.8.2",
     "cors": "^2.8.6",
-    "dotenv": "^18.0.1",
+    "dotenv": "^18.0.2",
     "ejs": "^6.0.1",
     "express": "^5.2.1",
     "fast-average-color-node": "^4.0.0",
